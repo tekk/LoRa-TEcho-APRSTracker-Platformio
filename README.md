@@ -1,6 +1,22 @@
-# LoRa-TEcho-APRSTracker
-Custom Arduino APRSTracker program for Lillygo T-Echo
-![image](https://user-images.githubusercontent.com/101743242/164885945-75de0a86-5a56-4c45-af79-8909834de12f.png)
-![image](https://user-images.githubusercontent.com/101743242/164886026-fa8b6ef9-a4c3-42ed-b674-eff4d3ccc8a6.png)
-![image](https://user-images.githubusercontent.com/101743242/164886186-3a0354ae-a773-4b9a-bbbf-1f7846e27198.png)
-![image](https://user-images.githubusercontent.com/101743242/164886279-c184ae31-1706-4832-bbfe-6e10dded897e.png)
+# LoRa-APRS Tracker for LilyGo T-ECHO with the BME 280 option
+
+## Modified by OM7TEK for use with [Platformio](https://platformio.org/)
+
+
+
+Version 1.01b
+- Activation of telemetry.
+- ![image](https://user-images.githubusercontent.com/74018524/174425904-ba914841-e32f-4df3-8c93-0dd14ea52378.png)
+- Fix bug of the power switch
+- Add the low level battery control
+
+Version 1.01a
+- Fix for T-Echos that are not equipped with a BME.
+- ![image](https://user-images.githubusercontent.com/74018524/173400571-39bf25c3-d019-49e7-b5df-6a989d5a3a6e.png)
+- Correct the personalized message display problem.
+ 
+Version 1.01
+- First version of the software
+
+![T-Echo01](https://user-images.githubusercontent.com/74018524/171911327-f6921fad-2aaa-4a55-8697-c57a5708f75b.JPG)
+![T-Echo_TX](https://user-images.githubusercontent.com/74018524/172041524-c14e4eb6-0f3d-4dde-a887-44bfb5aeeb37.jpg)
